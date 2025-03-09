@@ -1,5 +1,15 @@
 # 💫 About Me:
-I'm currently studying in Masters' Integrated Software ENgineering<br>I'm looking to collaborate on AI-ML<br>
+🚀 AI Enthusiast | Developer | Security & DevOps Explorer
+Hi! I'm Yash, passionate about AI, security, and education. I love building AI-driven applications, experimenting with machine learning models, and exploring cybersecurity & DevOps tools.
+
+🔹 AI & Education – Working on AI-powered study roadmap generators to help students optimize their exam prep.
+🔹 Web & Security – Developing secure and scalable web applications, including blockchain-based document storage and SOC security policies.
+🔹 AI Projects – From handwritten digit recognition to storytelling bots, I enjoy experimenting with AI across various domains.
+🔹 Music & AI – Currently exploring no-code AI tools to build a music app (VIBE 🎵).
+
+💡 Always open to collaborations and new ideas! If you're into AI, security, or music tech, let’s connect!
+
+📌 Check out my projects & feel free to contribute!
 
 
 # 💻 Tech Stack:
